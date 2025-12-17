@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "databricks-mcp-server": {
+      "command": "uv",
+      "args": [
+        "mcp",
+        "run",
+        "C:\\mcp databricks\\databricks-mcp-server\\server.py"
+      ]
+     
+    }
+  }
+}
+
